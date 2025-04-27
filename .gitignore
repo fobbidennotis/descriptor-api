@@ -1,0 +1,6 @@
+poetry.lock
+__pycache__
+.venv
+.mypy
+.mypy_cache
+tests
